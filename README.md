@@ -1,0 +1,1 @@
+Let's learn how to make and publish small projects using VS Code, Github and Netlify
